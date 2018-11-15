@@ -4,3 +4,4 @@
 !.gitignore
 !.tmux.conf
 !.tmux-powerlinerc
+!.vimrc
